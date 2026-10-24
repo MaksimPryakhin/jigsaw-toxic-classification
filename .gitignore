@@ -1,0 +1,9 @@
+data/
+models/
+*.pt
+*.csv
+!reports/final_results.csv
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+.DS_Store
