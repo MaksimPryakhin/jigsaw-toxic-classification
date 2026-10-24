@@ -41,5 +41,4 @@ Multi-label классификация токсичных комментарие
 git clone https://github.com/MaksimPryakhin/jigsaw-toxic-classification.git
 cd jigsaw-toxic-classification.git
 pip install -r requirements.txt
-jupyter notebook notebooks/01_eda.ipynb
-python src/train.py
+python src/pet-Bert
