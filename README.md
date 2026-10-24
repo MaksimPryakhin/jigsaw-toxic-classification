@@ -1,6 +1,6 @@
 # Jigsaw Toxic Comment Classification (Multi-label)
 
-Multi-label классификация токсичных комментариев (6 классов). Baseline (TF-IDF + LogReg): F1 0.61. DistilBERT: F1 0.66 (+0.05). Включает EDA, интерпретацию через SHAP и анализ ошибок.
+Multi-label классификация токсичных комментариев (6 классов). Baseline (TF-IDF + LogReg): F1 0.61. DistilBERT: F1 0.67 (+0.06). Включает EDA, интерпретацию через SHAP и анализ ошибок.
 
 ## Данные и проблема
 
